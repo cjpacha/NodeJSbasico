@@ -1,4 +1,6 @@
-# NodeJSbasico
+# NodeJS básico - para principiantes
+
+Guías y ejemplos de código para quienes inician con NodeJS
 
 INSTALACION
 
